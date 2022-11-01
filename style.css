@@ -1,0 +1,38 @@
+p{
+    color:rgb(30, 82, 64);
+    margin: 0;
+}
+img{
+    width: 500px;
+    display: block;
+    margin: 0 auto;
+}
+.head{
+    font-size: 24px;
+}
+#teeext{
+    color:rgb(77, 39, 111);
+}
+
+ul li{
+    color:blue
+}
+ol li{
+    color:rgb(122, 53, 53);
+}
+.container{
+    width: 500px;
+    padding-top: 10px;
+    padding: 10px 15px;
+    border: 1px solid;
+    margin: 20px auto;
+    text-align: center;
+    color:rgb(7, 161, 51);
+    font-size: 20px;
+    font-weight: 400;
+   
+}
+/*.containertext{
+    width: 250px;
+}*/
+
